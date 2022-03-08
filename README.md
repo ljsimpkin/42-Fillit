@@ -4,7 +4,7 @@ A program that takes a set of tetrominoes and fills them in the smallest square 
 
 ## Example:
 
-  input format
+  valid format
     
     £... #... .... ....
     £... #... ##.. ###.

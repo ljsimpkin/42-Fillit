@@ -1,4 +1,4 @@
-# Fillit
+# 42-Fillit
 
 A program that takes a set of tetrominoes and fills them in the smallest square possible. This solution was achieved by using recursive backtracking from the top left corner.
 
